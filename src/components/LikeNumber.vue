@@ -12,6 +12,9 @@ export default {
       type: Number,
       required: true,
       default:10,
+    },
+    testProps : {
+      
     }
   },
   computed : {
