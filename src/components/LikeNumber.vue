@@ -14,7 +14,6 @@ export default {
       default:10,
     },
     testProps : {
-      
     }
   },
   computed : {

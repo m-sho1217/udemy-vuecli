@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>トータルのいいね数</h1>
+    <h1>ブログのタイトル</h1>
   </div>
 </template>
